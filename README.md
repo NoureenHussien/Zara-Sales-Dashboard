@@ -22,6 +22,6 @@ The dashboard provides a breakdown of sales and revenue across various dimension
 ### **Screenshots**
 
 Here are snapshots of the dashboard:
-    zara-dashboard-overview!(zara-dashboard-overview.png)
-    zara-sales-details!(zara-sales-details.png)
+    ![zara dashboard overview](zara-dashboard-overview.png)
+    ![zara sales details](zara-sales-details.png)
 
